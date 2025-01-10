@@ -1,0 +1,8 @@
+beautifulsoup4
+colorama
+curl-cffi
+fake-useragent
+names
+requests
+2captcha-python
+anticaptchaofficial
